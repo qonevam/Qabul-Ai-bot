@@ -1,0 +1,6 @@
+{
+  "name": "Qabul AI",
+  "description": "Kichik bizneslar uchun avtomatik mijozlar bilan muloqot va buyurtmalarni qabul qilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
